@@ -175,7 +175,7 @@
   }
 
   .dropdown-item {
-    @apply p-16-semibold text-dark-700 cursor-pointer transition-all px-4 py-3 rounded-none outline-none hover:border-none focus-visible:ring-transparent hover:text-white hover:bg-purple-gradient hover:bg-cover focus-visible:ring-offset-0 focus-visible:outline-none !important;
+    @apply p-4 font-semibold text-gray-700 cursor-pointer transition-all px-4 py-3 rounded-none outline-none hover:border-none focus-visible:ring-transparent hover:text-white hover:bg-gradient-to-r from-purple-500 to-purple-700 hover:bg-cover focus-visible:ring-offset-0 focus-visible:outline-none;
   }
 
   .input-field {
